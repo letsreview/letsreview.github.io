@@ -26,6 +26,10 @@ title = "Let's Review"
 content = "Reviewing Open Source Software together."
 
 [[params.socialIcons]]
+name = "discord"
+url = "https://discord.gg/YV2zYDpv4z"
+
+[[params.socialIcons]]
 name = "github"
 url = "https://github.com/letsreview"
 
